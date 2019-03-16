@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainScene</key>
+	<dict>
+		<key>landscape</key>
+		<string>0</string>
+		<key>back</key>
+		<string></string>
+		<key>image</key>
+		<string>body main</string>
+		<key>regions</key>
+		<dict>
+			<key>boy - 2 - 2</key>
+			<dict>
+				<key>tile</key>
+				<string>stocking 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy - 2 - 3</key>
+			<dict>
+				<key>tile</key>
+				<string>star 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy - 2</key>
+			<dict>
+				<key>tile</key>
+				<string>snowflake 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy - 3</key>
+			<dict>
+				<key>tile</key>
+				<string>sleigh 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy - 4</key>
+			<dict>
+				<key>tile</key>
+				<string>reindeer 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy - 5</key>
+			<dict>
+				<key>tile</key>
+				<string>present 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy - 6</key>
+			<dict>
+				<key>tile</key>
+				<string>mistletoe 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy - 7</key>
+			<dict>
+				<key>tile</key>
+				<string>hotChocolate 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy - 8</key>
+			<dict>
+				<key>tile</key>
+				<string>fireplace 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy - 9</key>
+			<dict>
+				<key>tile</key>
+				<string>doll 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy - 11</key>
+			<dict>
+				<key>tile</key>
+				<string>christmas tree 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy - 12</key>
+			<dict>
+				<key>tile</key>
+				<string>candy cane 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy - 13</key>
+			<dict>
+				<key>tile</key>
+				<string>candle 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy - 14</key>
+			<dict>
+				<key>tile</key>
+				<string>angel 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+			<key>boy</key>
+			<dict>
+				<key>tile</key>
+				<string>adventskranz 160x160</string>
+				<key>question</key>
+				<string>Where is the...</string>
+				<key>questSnd</key>
+				<string>whereisthe_c.caf</string>
+				<key>next</key>
+				<string>boy</string>
+				<key>image</key>
+				<string>boy</string>
+				<key>sound</key>
+				<string>boy_c.caf</string>
+				<key>positions</key>
+				<string>-2,-6/-1,-6/-1,-5/-2,-5/-3,-5/-3,-6/+0,-5/+0,-4/-1,-4/-2,-4/-3,-4/+0,-6/-2,-3/-1,-3/-1,-2/-2,-2/-3,-2/-3,-3/-4,-3/-4,-2/-3,-1/-2,-1/-1,-1/-1,+0/-2,+0/-3,+0/-3,+1/-2,+1/-1,+1/-1,+2/-2,+2/-3,+2/</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

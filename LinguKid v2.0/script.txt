@@ -1,0 +1,13 @@
+# usage ksh script.txt
+# caution runs once only!!! if you need to do it again, delete all caf files first
+
+if test -e *.caf 
+then
+	echo will not convert files, coz caf files already exists
+else
+	for file in *.wav
+	do
+		echo Processing ${file%.wav}.caf
+		afconvert -f caff -d LEI16 ${file} ${file%.wav}.caf	
+	done
+fi

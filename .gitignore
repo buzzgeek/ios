@@ -1,0 +1,16 @@
+*.jpg
+*.gif
+*.png
+*.caf
+*.m4a
+*.mp3
+LinguKid v1.2/
+LinguKid v2.0/build/
+LinguKid v2.0/libs/
+LinguKidLite v1.0/
+LinguKidLite v1.1/
+LinguKidLite v1.1.2/
+RoteKarte/build/
+RoteKarte/RoteKarte.app
+RoteKarte/RoteKarte.app.dSYM
+RoteKarteLite/

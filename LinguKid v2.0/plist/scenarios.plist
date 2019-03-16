@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>christmas</key>
+	<dict>
+		<key>image</key>
+		<string>c_scene_main</string>
+	</dict>
+	<key>basics</key>
+	<dict>
+		<key>image</key>
+		<string>letters numbers main</string>
+	</dict>
+	<key>body</key>
+	<dict>
+		<key>image</key>
+		<string>body main</string>
+	</dict>
+	<key>animals</key>
+	<dict>
+		<key>image</key>
+		<string>animals main scene</string>
+	</dict>
+	<key>house</key>
+	<dict>
+		<key>image</key>
+		<string>house</string>
+	</dict>
+</dict>
+</plist>
